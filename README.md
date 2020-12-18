@@ -2,7 +2,7 @@
 
 ##### 語言
 
-繁體中文 | [English](./README.md)
+English | [繁體中文](./README.cht.md)
 
-# 英文版尚末更新，請先閱讀繁體中文版。
-# The English README is not yet updated, please read the traditional Chinese version first.
+## 英文版尚末更新，請先閱讀繁體中文版。
+## The English README is not yet updated, please read the traditional Chinese version first.
